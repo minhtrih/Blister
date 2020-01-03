@@ -24,6 +24,7 @@ lib/
 lib64/
 parts/
 sdist/
+share/
 var/
 wheels/
 *.egg-info/
@@ -56,3 +57,7 @@ pip-delete-this-directory.txt
 .venv
 venv/
 ENV/
+
+#Mask_RCNN
+Mask_RCNN/assets/
+Mask_RCNN/images/
